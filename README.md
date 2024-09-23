@@ -1,2 +1,2 @@
-# repasse
-Repasse is an application to deal with medical duty shifts
+# Repasse
+Repasse is an application to help healthcare professionals exchange their duty shifts.
